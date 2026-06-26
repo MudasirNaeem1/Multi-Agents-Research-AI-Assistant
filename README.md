@@ -1,6 +1,6 @@
 # 🔬 Multi-Agent Research Assistant
 
-> An intelligent, fully automated research pipeline powered by **LangChain**, **LangGraph**, and **Groq LLaMA 3.3 70B** — turning any topic into a structured, critically reviewed research report in under a minute.
+> An intelligent, fully automated research pipeline powered by **LangChain**, **LangGraph**, and **Groq LLaMA 3.3 70B** - turning any topic into a structured, critically reviewed research report in under a minute.
 
 <div align="center">
 
@@ -44,7 +44,7 @@ The **Multi-Agent Research Assistant** automates the complete cycle of online re
 User Query → Search the Web → Read Full Pages → Write Report → Critically Review
 ```
 
-A user types any research topic, clicks **Run**, and receives a professionally structured research report - with sources and an independent critic score — **without any manual intervention**.
+A user types any research topic, clicks **Run**, and receives a professionally structured research report - with sources and an independent critic score - **without any manual intervention**.
 
 Built entirely on **free-tier, open-source tools**, this system demonstrates production-grade Agentic AI for students and researchers at zero cost.
 
@@ -65,7 +65,7 @@ Traditional research is manual, fragmented, and slow. A researcher must:
 |---|---|
 | No real-time web search (free tier) | Outdated, knowledge-cutoff-bound responses |
 | No full-page scraping | Only snippets retrieved, not full article content |
-| No separation of concerns | One model handles all tasks — quality drops |
+| No separation of concerns | One model handles all tasks - quality drops |
 | No self-critique mechanism | No scoring or quality evaluation |
 | Paid at scale | API costs accumulate fast |
 
